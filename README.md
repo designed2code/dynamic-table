@@ -1,4 +1,4 @@
-![A screenshot of the generated table](images/screenshot.png)
+![A screenshot of the generated table](public/images/screenshot.png)
 
 ## How to Use
 
